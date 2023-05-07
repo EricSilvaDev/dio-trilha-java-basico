@@ -1,4 +1,4 @@
-public class VariaveisTipos {
+public class PalavrasReservadas {
     public static void main(String[] args) {
 
     }
